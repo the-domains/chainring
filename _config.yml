@@ -1,0 +1,28 @@
+name: ChainRing
+favicon: null
+layout_spectrum: 0.08115089195780456
+typography_spectrum: 0.3248553287703544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7233210785780102
+  lightness: 0.7474166650790721
+  saturation: 0.07575532793998718
+  rhythmicContrast: 0.011184953385964036
+purpose: []
